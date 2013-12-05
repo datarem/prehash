@@ -1,0 +1,75 @@
+curl -F 'client_id=4367aff26a7e4f21a4a02c2b0b79c63b' \
+     -F 'client_secret=c139ec8347054d6487dab1c181fa3fe2' \
+     -F 'object=geography' \
+     -F 'aspect=media' \
+     -F 'lat=36.114673' \
+     -F 'lng=-115.172821' \
+     -F 'radius=5000' \
+     -F 'callback_url=http://instatestbeddatarem.jit.su/callback' \
+     https://api.instagram.com/v1/subscriptions/
+
+https://api.instagram.com/v1/subscriptions?client_secret=c139ec8347054d6487dab1c181fa3fe2&client_id=4367aff26a7e4f21a4a02c2b0b79c63b
+
+curl -X DELETE http://instatestbeddatarem.jit.su/delete
+
+
+curl -F 'client_id=4367aff26a7e4f21a4a02c2b0b79c63b' \
+     -F 'client_secret=c139ec8347054d6487dab1c181fa3fe2' \
+     -F 'object=geography' \
+     -F 'aspect=media' \
+     -F 'lat=34.101648' \
+     -F 'lng=-118.340163' \
+     -F 'radius=5000' \
+     -F 'callback_url=http://datarem-instatestbed.jit.su/callback' \
+     https://api.instagram.com/v1/subscriptions/
+-117.709107
+curl -F 'client_id=4367aff26a7e4f21a4a02c2b0b79c63b' \
+     -F 'client_secret=c139ec8347054d6487dab1c181fa3fe2' \
+     -F 'object=geography' \
+     -F 'aspect=media' \
+     -F 'lat=25.796646' \
+     -F 'lng=-80.134777' \
+     -F 'radius=5000' \
+     -F 'callback_url=http://instatestbeddatarem.jit.su/callback' \
+     https://api.instagram.com/v1/subscriptions/
+
+     curl -F 'client_id=4367aff26a7e4f21a4a02c2b0b79c63b' \
+     -F 'client_secret=c139ec8347054d6487dab1c181fa3fe2' \
+     -F 'object=geography' \
+     -F 'aspect=media' \
+     -F 'lat=34.100267' \
+     -F 'lng=-117.709107' \
+     -F 'radius=5000' \
+     -F 'callback_url=http://instatestbeddatarem.jit.su/callback' \
+     https://api.instagram.com/v1/subscriptions/
+
+https://github.com/mbostock/d3/blob/master/test/data/us-counties.json
+bl.ocks.org/mbostock/raw/2206590/2cf0fd36bceb64aa4ec1aaad40bfa943f4f921e1/readme.json
+150
+306
+612
+34.101648,-118.340163 LA
+40.737372,-73.994345 NYC
+36.116384,-115.17245 Vegas
+37.770172,-122.438559 San Francisco
+37.441882,-122.143645 Palo Alto
+37.369611,-122.039618 Sunnyvale
+29.942589,-90.091006 NOLA
+42.361335,-71.069235 Boston
+25.7968,-80.196865 Miami
+47.604311,-122.306878 Seattle
+41.875696,-87.62462 Chicago
+44.984713,-93.263729 Minneapolis
+49.261083,-123.111523 Vancouver, BC, Canada
+
+     curl -F 'client_id=4367aff26a7e4f21a4a02c2b0b79c63b' \
+     -F 'client_secret=c139ec8347054d6487dab1c181fa3fe2' \
+     -F 'object=geography' \
+     -F 'aspect=media' \
+     -F 'lat=49.261083' \
+     -F 'lng=-123.111523' \
+     -F 'radius=5000' \
+     -F 'callback_url=http://datarem-instatestbed.jit.su/callback' \
+     https://api.instagram.com/v1/subscriptions/
+
+
